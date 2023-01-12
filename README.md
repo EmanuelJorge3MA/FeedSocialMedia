@@ -1,10 +1,6 @@
 # FeedSocialMedia <img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
-<br />
-&nbsp;
-
-## Ignite - FeedSocialMedia 
-<img src="https://github.com/EmanuelJorge3MA/PlayerDeMusica/blob/master/src/assets/playerdemuscia.png?raw=true" align="center" />
+## FeedSocialMedia - Ignite
 
 Durante este desafio, utilizei os conceitos básicos do React, desenvolvendo do zero um simples layout de Feed Social Media, onde temos as seguintes funcionalidades:
 
@@ -41,7 +37,7 @@ npm run dev
 <br />
 
 <a href="https://github.com/EmanuelJorge3MA/PlayerDeMusica/tree/master/src" target="_blank">
-<img src="https://raw.githubusercontent.com/EmanuelJorge3MA/FeedSocialMedia/master/src/assets/app_img/linkdin.png" width="20" height="20" />
+<img src="https://raw.githubusercontent.com/EmanuelJorge3MA/FeedSocialMedia/master/src/assets/app_img/174857.png" width="40" height="40" />
 </a>
 
 <a href="https://github.com/EmanuelJorge3MA/FeedSocialMedia" target="_blank">
@@ -53,3 +49,14 @@ npm run dev
 </a>
 
 &nbsp;
+
+## Imagens 
+<img src="https://raw.githubusercontent.com/EmanuelJorge3MA/FeedSocialMedia/master/src/assets/app_img/web%20app.png" align="center" />
+
+&nbsp;
+
+## Imagens Responsivo Mobile
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/EmanuelJorge3MA/FeedSocialMedia/master/src/assets/app_img/mobile.png" align="center" />
