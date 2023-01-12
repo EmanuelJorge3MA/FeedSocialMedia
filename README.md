@@ -36,7 +36,7 @@ npm run dev
 
 <br />
 
-<a href="https://github.com/EmanuelJorge3MA/PlayerDeMusica/tree/master/src" target="_blank">
+<a href="https://www.linkedin.com/posts/emanueljorge_design-reactjs-github-activity-7019410359904014336-g76n?utm_source=share&utm_medium=member_desktop" target="_blank">
 <img src="https://raw.githubusercontent.com/EmanuelJorge3MA/FeedSocialMedia/master/src/assets/app_img/174857.png" width="40" height="40" />
 </a>
 
